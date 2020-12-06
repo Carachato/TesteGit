@@ -1,3 +1,4 @@
 public class ClasseA {
-  private string nome;  
+  private string nome; 
+  //testando criacao da branch-nova 
 }
